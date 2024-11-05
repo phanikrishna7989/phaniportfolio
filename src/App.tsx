@@ -58,13 +58,13 @@ function App() {
               transition={{ duration: 0.6 }}
             >
               <img 
-                src="phani-profile.jpg"
+                src="phaniprofile.jpg"
                 alt="Phani Krishna"
                 className="rounded-full w-64 h-64 object-cover mx-auto shadow-2xl mb-4"
               />
             </motion.div>
             <motion.a
-              href="/Phani_Krishna_Resume.pdf"
+              href="/PhaniKrishnaResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className={`inline-flex items-center gap-2 px-6 py-3 rounded-full transition-colors duration-300 backdrop-blur-sm
