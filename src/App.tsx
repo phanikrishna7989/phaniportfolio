@@ -58,7 +58,7 @@ function App() {
               transition={{ duration: 0.6 }}
             >
               <img 
-                src="phaniprofile.jpg"
+                src="https://media.licdn.com/dms/image/v2/D4E03AQGcEsN8OMJHTg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728700263381?e=1736380800&v=beta&t=Ms_uApzoTQ3RlkeBpjULSgEWsQevuvDzioQN8JZJHR4"
                 alt="Phani Krishna"
                 className="rounded-full w-64 h-64 object-cover mx-auto shadow-2xl mb-4"
               />
